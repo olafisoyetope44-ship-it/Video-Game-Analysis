@@ -36,24 +36,20 @@ This project uses Python to explore a video-game sales dataset containing 16,598
 
 The charts below compare recorded video-game sales by genre across North America, Europe, Japan, global markets, and other regions. They highlight differences in genre performance across markets.
 
-North America
-![North American genre sales](images/North%20American%20Market.png)
+### North America
+![North American genre sales](Images%20%28Sales%20of%20Game%20Genres%20in%20NA%2CEU%2C%20JP%2C%20Global%20and%20Other%20Markets%29/North%20American%20Market.png)
 
+### Europe
+![European genre sales](Images%20%28Sales%20of%20Game%20Genres%20in%20NA%2CEU%2C%20JP%2C%20Global%20and%20Other%20Markets%29/European%20Market.png)
 
-Europe
-![European genre sales](imagesEuropean%20Market.png)
+### Japan
+![Japanese genre sales](Images%20%28Sales%20of%20Game%20Genres%20in%20NA%2CEU%2C%20JP%2C%20Global%20and%20Other%20Markets%29/Japan%20Market.png)
 
+### Global Market
+![Global genre sales](Images%20%28Sales%20of%20Game%20Genres%20in%20NA%2CEU%2C%20JP%2C%20Global%20and%20Other%20Markets%29/Global%20Market.png)
 
-Japan
-
-
-
-Global
-
-
-
-Other Markets
-
+### Other Markets
+![Other-market genre sales](Images%20%28Sales%20of%20Game%20Genres%20in%20NA%2CEU%2C%20JP%2C%20Global%20and%20Other%20Markets%29/Other%20Markets.png)
 
 ## Initial observations
 
