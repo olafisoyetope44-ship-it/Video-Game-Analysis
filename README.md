@@ -107,6 +107,29 @@ If you run the notebook in Google Colab, upload `vgsales.csv` to your Colab sess
 
 Some visualisation and machine-learning libraries may need to be installed in a fresh environment.
 
+
+## Conclusion
+
+This project explores historical video game sales across genres, platforms, publishers, release years, and geographic markets.
+
+### Key Findings
+
+- **Regional differences matter:** Action and Sports games perform strongly in several markets, while Role-Playing games have a particularly strong presence in Japan.
+- **Sales vary by genre:** Comparing total global sales by genre helps identify which categories contributed most to recorded sales in the dataset.
+- **Publishers have different regional strengths:** Comparing publisher sales across North America, Europe, Japan, and other markets reveals differences in their geographic performance.
+- **Platform and release trends provide context:** The number of games released on a platform and annual sales totals help illustrate how the industry changed over time.
+- **Historical sales are concentrated among successful titles:** Comparing the best-selling games across regions highlights how individual titles can perform differently between markets.
+
+### Predictive Modelling
+
+The project also compares regression models using platform, genre, publisher, and release year to estimate global sales. The modelling approach avoids using regional sales figures as predictors of global sales, reducing target leakage.
+
+However, the predictive results should be interpreted cautiously. The available metadata alone does not explain all the factors influencing a game's commercial performance, and the models should be judged against a simple baseline using unseen data.
+
+### Overall Recommendation
+
+The analysis demonstrates how Python, pandas, data visualisation, and machine learning can be combined to investigate sales data and communicate findings. Future improvements could include time-based model validation, additional features, and a more detailed investigation of the factors associated with commercial success.
+
 ## Next improvements
 
 - Make dataset loading reproducible and document the data source and licence.
@@ -119,3 +142,5 @@ Some visualisation and machine-learning libraries may need to be installed in a 
 ## Skills demonstrated
 
 Data cleaning, exploratory data analysis, data visualisation, regional and time-based comparisons, feature preparation, regression modelling, model evaluation, and communicating analytical findings.
+
+
