@@ -57,9 +57,9 @@ The charts below compare recorded video-game sales by genre across North America
 ![North American genre sales](Genre-sales/Top10GameRecordbySalesinNorthAmerica.png)
 
 ### Europe
-![European genre sales](Genre-sales/Top10GameRecordbySalesinEurope.png)
+![European genre sales](Genre-sales/Top10%20Game%20Record%20by%20Sales%20in%20Europe.png)
 ### Japan
-![Japan genre sales](Genre-sales/Top10GameRecordbySalesinJapn.png)
+![Japan genre sales](Genre-sales/Top%2010%20Game%20Record%20by%20Sales%20in%20Japan.png)
 
 ### Other Markets
 ![Other Market genre sales](Genre-sales/Top10GameRecordbySalesinOtherMarkets.png)
