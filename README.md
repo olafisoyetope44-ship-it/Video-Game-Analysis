@@ -31,6 +31,30 @@ This project uses Python to explore a video-game sales dataset containing 16,598
 7. Which games have the highest recorded sales?
 8. How do several regression algorithms compare on a sales-prediction task?
 
+
+## Regional Genre Sales Visualisations
+
+The charts below compare recorded video-game sales by genre across North America, Europe, Japan, global markets, and other regions. They highlight differences in genre performance across markets.
+
+North America
+
+
+
+Europe
+
+
+
+Japan
+
+
+
+Global
+
+
+
+Other Markets
+
+
 ## Initial observations
 
 The notebook's exploratory analysis suggests that:
