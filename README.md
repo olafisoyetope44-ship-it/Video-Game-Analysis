@@ -132,12 +132,10 @@ The analysis demonstrates how Python, pandas, data visualisation, and machine le
 
 ## Next improvements
 
-- Make dataset loading reproducible and document the data source and licence.
-- Strengthen data-quality checks, including duplicate and missing-value handling.
-- Refine chart labels, units, and explanatory takeaways.
-- Redesign the prediction task to avoid target leakage.
-- Use preprocessing pipelines and cross-validation correctly.
-- Add a concise executive summary with business-oriented recommendations.
+- Add time-based validation to test how well the sales model generalises to later release years.
+- Investigate additional features that may explain differences in game sales.
+- Improve reproducibility by documenting the dataset's original source and licence.
+- Explore additional business-focused questions, such as sales performance by platform and publisher.
 
 ## Skills demonstrated
 
