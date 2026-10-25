@@ -51,6 +51,19 @@ The charts below compare recorded video-game sales by genre across North America
 ### Other Markets
 ![Other-market genre sales](Genre-sales/Other%20Markets.png)
 
+
+## Top 10 Genre Sales by Market Visualisation
+### North America
+![North American genre sales](Genre-sales/Top10GameRecordbySalesinNorthAmerica.png)
+
+### Europe
+![European genre sales](Genre-sales/Top10GameRecordbySalesinEurope.png)
+### Japan
+![Japan genre sales](Genre-sales/Top10GameRecordbySalesinJapn.png)
+
+### Other Markets
+![Other Market genre sales](Genre-sales/Top10GameRecordbySalesinOtherMarkets.png)
+
 ## Initial observations
 
 The notebook's exploratory analysis suggests that:
